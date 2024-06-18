@@ -2,8 +2,8 @@
 
 [![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-santana94/)
 
-![Anderson Santana GitHub stats](https://github-readme-stats.vercel.app/api?username=JulioCesarSantosdv&show_icons=true&theme=tokyonight)
-[![Anderson Santana Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JulioCesarSantosdv&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anderson Santana GitHub stats](https://github-readme-stats.vercel.app/api?username=andersonfs94&show_icons=true&theme=tokyonight)
+[![Anderson Santana Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andersonfs94&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ## I code in
 <div style="display:inline_block"><br>
   <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
