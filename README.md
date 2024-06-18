@@ -14,4 +14,4 @@
 
 ## Portfólio
 
-<a href="https://andersonfs94.github.io"><img src="https://img.icons8.com/?size=100&id=XhDBVc7IBFl9&format=png&color=000000"/></a>
+<a href="https://andersonfs94.github.io"><img src="https://img.icons8.com/?size=100&id=XhDBVc7IBFl9&format=png&color=000000" target="_blank"/></a>
