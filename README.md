@@ -1,6 +1,6 @@
 ### Hi there, I'm Anderson Santana ✌
 
-[![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-santana94/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-santana94/)
 
 ![Anderson Santana GitHub stats](https://github-readme-stats.vercel.app/api?username=andersonfs94&show_icons=true&theme=tokyonight)
 [![Anderson Santana Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andersonfs94&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
